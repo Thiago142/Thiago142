@@ -5,11 +5,13 @@
 - 📚 Atualmente sigo aperfeiçoando os estudos e prática em criação de testes automatizados Front-End e Back-End.
 - 📫 Contate-me no email: thiago.moreiras@hotmail.com
 
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Thiago142&show_icons=true&theme=radical">
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago142&layout=compact">
+
 <!-- essoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 -->
-
-Tecnologias no qual já utilizei
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
