@@ -7,7 +7,7 @@
 - 🚀 Apaixonado pela área da Tecnologia e sempre curioso em apreender coisas novas.
 - 📚 Atualmente sigo aperfeiçoando os estudos e prática em criação de testes automatizados Front-End e Back-End.
 - 📫 Contate-me no email: thiago.moreiras@hotmail.com
-https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif
+<!--https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif-->
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Thiago142&show_icons=true&theme=radical">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago142&layout=compact">
